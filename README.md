@@ -10,6 +10,7 @@
 -   [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 -   [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 -   [1512. Number of Good Pair](https://leetcode.com/problems/number-of-good-pairs/)
+-   [1421 Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
 ### 121. Best Time to Buy asn Sell Stock
 
