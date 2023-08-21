@@ -11,6 +11,7 @@
 -   [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 -   [1512. Number of Good Pair](https://leetcode.com/problems/number-of-good-pairs/)
 -   [1421 Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+-   [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 
 ### 121. Best Time to Buy asn Sell Stock
 
