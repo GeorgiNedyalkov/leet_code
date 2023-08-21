@@ -12,6 +12,7 @@
 -   [1512. Number of Good Pair](https://leetcode.com/problems/number-of-good-pairs/)
 -   [1421 Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 -   [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+-   [2114. Maximum Numbers of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
 
 ### 121. Best Time to Buy asn Sell Stock
 
