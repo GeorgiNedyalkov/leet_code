@@ -14,3 +14,5 @@
 -   [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 -   [2114. Maximum Numbers of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
 -   [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/submissions/1029377047/)
+-   [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
+-   [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
