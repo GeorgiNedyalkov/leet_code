@@ -16,3 +16,4 @@
 -   [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/submissions/1029377047/)
 -   [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 -   [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
+-   [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/submissions/1030457622/)
