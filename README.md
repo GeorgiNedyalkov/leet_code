@@ -17,3 +17,7 @@
 -   [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 -   [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 -   [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/submissions/1030457622/)
+
+Typescript
+
+-   [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/1035736588/)
