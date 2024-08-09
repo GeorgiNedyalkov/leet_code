@@ -24,14 +24,3 @@ int scoreOfString(std::string s)
     std::cout << score << std::endl;
     return score;
 }
-
-int main()
-{
-    std::string evenInput = "hello";
-    std::string oddInput = "zaz";
-
-    scoreOfString(evenInput);
-    scoreOfString(oddInput);
-
-    return 0;
-}
